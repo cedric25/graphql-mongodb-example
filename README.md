@@ -2,10 +2,12 @@
 
 All the important code is in `src/start.js`.
 
-Install, build and run:
+## Node >= 10.0.0 required
+(It uses experimental ES6 imports feature)
+
+## Install, build and run:
 
 ```
-yarn install
-yarn run build
+yarn
 yarn start
 ```
